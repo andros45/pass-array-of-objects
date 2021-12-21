@@ -1,0 +1,1 @@
+# pass-array-of-objects
